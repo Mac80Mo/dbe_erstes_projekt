@@ -2,26 +2,31 @@
     {
         "id": 1,
         "title": "Fancy Bear goes phishing",
-        "author": "Scott J. Shapiro"
+        "author": "Scott J. Shapiro",
+        "link": "https://en.wikipedia.org/wiki/Fancy_Bear_Goes_Phishing"
     },
     {
         "id": 2,
         "title": "The Lazarus Heist",
-        "author": "Geoff White"
+        "author": "Geoff White",
+        "link": "https://www.amazon.com/Lazarus-Heist-Hollywood-Finance-Inside/dp/024155425X"
     },
     {
         "id": 3,
         "title": "American Kingpin",
-        "author": "Nick Bilton"
+        "author": "Nick Bilton",
+        "link": "https://www.penguin.co.uk/books/435417/american-kingpin-by-nick-bilton/9780753547007"
     },
     {
         "id": 4,
         "title": "Goldstein",
-        "author": "Volker Kutscher"
+        "author": "Volker Kutscher",
+        "link": "https://de.wikipedia.org/wiki/Goldstein._Gereon_Raths_dritter_Fall"
     },
     {
         "id": 5,
         "title": "Die Verwirrung der Verwirrungen",
-        "author": "Andre Kostolany"
+        "author": "Andre Kostolany",
+        "link": "https://www.amazon.com/Die-Verwirrung-Verwirrungen-Joseph-Vega/dp/3922669107?th=1"
     }
 ]

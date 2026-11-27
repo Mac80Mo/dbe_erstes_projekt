@@ -4,6 +4,6 @@ fetch("data/books.json")
   .then((response) => response.json())
   .then((books) => {
     for (const book of books) {
-      list.innerHTML += `<li>${book.title} - ${book.author}</li>`;
+      list.innerHTML += `<li><a href="${book.link}" target="_blank" rel="noopener noreferrer">${book.title}</a> - ${book.author}</li>`;
     }
   });
