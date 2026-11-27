@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Fancy Bear goes phishing",
+        "author": "Scott J. Shapiro"
+    },
+    {
+        "id": 2,
+        "title": "The Lazarus Heist",
+        "author": "Geoff White"
+    },
+    {
+        "id": 3,
+        "title": "American Kingpin",
+        "author": "Nick Bilton"
+    },
+    {
+        "id": 4,
+        "title": "Goldstein",
+        "author": "Volker Kutscher"
+    },
+    {
+        "id": 5,
+        "title": "Die Verwirrung der Verwirrungen",
+        "author": "Andre Kostolany"
+    }
+]
