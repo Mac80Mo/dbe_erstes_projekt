@@ -19,3 +19,4 @@ Nach den Grundlagen von **Git**, erstelle ich hier ein kleines Übungs-Projekt.
 - **.gitignore** um sensible Inhalte und ggf. Speicherplatz zu schonen
 - **GitHub Issues** (zusätzlich, nicht gefordert): Aufgaben und Ideen
 - **Tag** (zusätzlich, nicht gefordert): Version 1.0
+- **GitHub Actions** Repository herunterladen, Ordner & Projektverzeichnis anzeigen, Begrüßung im Protokoll
