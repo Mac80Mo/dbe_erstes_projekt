@@ -5,7 +5,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Projekt herunterladen
-              uses: actions/checkout@v4
+              uses: actions/checkout@v6
             - name: Dateien anzeigen
               run: ls
             - name: Gruss ausgeben
